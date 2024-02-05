@@ -22,6 +22,7 @@ body {
     height: 30rem;
     background-color: rgb(19, 19, 19);
     margin: 20px;
+    padding: 20px;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -46,7 +47,7 @@ body {
     margin: 1% 1.5%;
 }
 .card {
-    margin: 5px;
+    margin: 10px;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;

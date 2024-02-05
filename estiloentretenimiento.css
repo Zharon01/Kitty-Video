@@ -46,10 +46,13 @@ body {
     margin: 1% 1.5%;
 }
 .card {
-    margin: 5px;
+    margin: 10px;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+}
+.card-img-top {
+    height: 7rem;
 }
 .carousel-inner {
     padding: 0 45px;
@@ -69,4 +72,13 @@ body {
 }
 .btn-primary {
     background-color: mediumpurple;
+}
+.dropdown-item {
+    text-decoration: none;
+    font-family: cute; 
+    font-size: 25px;
+    color: whitesmoke;
+}
+.card-text {
+    font-family: roboto;
 }
